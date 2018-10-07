@@ -1,3 +1,3 @@
 # kurumi-ap
 
-- readme test minori
+- readme test minori + dai
