@@ -1,3 +1,3 @@
 # kurumi-ap
 
-- readme test
+- readme test minori
